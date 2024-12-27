@@ -1,0 +1,7 @@
+rosbags/
+.idea/
+*__pycache*
+src/data
+src/g2o/data
+*debug.txt
+src/dist_mat.png
